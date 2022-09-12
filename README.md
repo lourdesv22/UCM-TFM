@@ -6,7 +6,7 @@ El objetivo de este repositorio es concentar los códigos que permiten entrenar 
 
 ![housesbanner](https://user-images.githubusercontent.com/111946760/186326963-c2c35873-f2e1-4a61-a816-6c8fc6c793ad.png)
 
-El mejor score que obtuve es de: 0.13125
+El mejor score que obtuve es de: 0.13893
 
 
 # Descripción
