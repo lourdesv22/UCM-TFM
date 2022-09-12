@@ -17,4 +17,4 @@ El mejor score que obtuve es de: 0.13125
 - Modelización y entrenamiento
 - Hiperparámetros
 - Seleccionar modelo y guardarlo en pkl
-- Uso de Flask para mostrar prediccion en pagina web
+- Uso de Flask para mostrar prediccion en pagina web & almacenamiento de la información en MYSQL Workbench.
